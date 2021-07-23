@@ -9,10 +9,10 @@ while qnt != i:
   if voto == 1:
     a += 1
     i += 1
-  if voto == 2:
+  elif voto == 2:
     b += 1
     i += 1
-  if voto == 3:
+  elif voto == 3:
     c += 1
     i +=1
   else:
