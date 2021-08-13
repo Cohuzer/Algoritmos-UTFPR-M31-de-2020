@@ -26,4 +26,3 @@ while cx <= c_total:
     else:
         print(f'Você pode colocar {resto} Kg no caminhão, nele tem {qnt_c} caixas')
 print('Obrigado')
-#Achei que ficou muito bonito esse código!
